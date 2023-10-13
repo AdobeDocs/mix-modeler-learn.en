@@ -5,7 +5,6 @@ product: mix modeler
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/mix-modeler-learn.en
-hide: yes
 ---
 
 # Metadata for internal use

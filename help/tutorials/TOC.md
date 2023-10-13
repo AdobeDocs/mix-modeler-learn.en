@@ -2,8 +2,16 @@
 user-guide-title: Mix Modeler Tutorials
 breadcrumb-title: Mix Modeler Tutorials
 user-guide-description: A collection of videos and tutorials for Adobe Mix Modeler.
+audience: all
+doc-type: video
+auto-video-transcripts: true
 ---
 
-# Template title {#tutorials}
+# Adobe Mix Modeler Tutorials {#tutorials}
 
-+ [Overview](overview.md)
++ [Mix Modeler Tutorials](/help/tutorials/overview.md)
++ Introduction to Mix Modeler {#intro}
+  + [Overview](/help/tutorials/intro/understanding-mix-modeler.md)
+  + [Use Cases](/help/tutorials/intro/use-cases.md)
+  + [User Workflow](/help/tutorials/intro/user-workflow.md)
+  + [User Interface Tour](/help/tutorials/intro/user-interface-tour.md)
