@@ -3,6 +3,7 @@ title: Mix Modeler videos and tutorials
 description: A collection of videos and tutorials for Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
+exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
 ---
 # Mix Modeler Tutorials
 
