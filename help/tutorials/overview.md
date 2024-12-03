@@ -37,16 +37,16 @@ Adobe Mix Modeler helps organizations measure, optimize, and plan marketing inve
     <p>
   </td>
   <td>
-    <a href="intro/demo.md">
-      <img alt="thumbnail image for the 'End-to-end demo' tutorial" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+    <a href="intro/user-workflow.md">
+      <img alt="thumbnail image for the 'User workflow' tutorial" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
-      <a href="intro/demo.md">
-    <strong>End-to-end demo</strong>
+      <a href="intro/user-workflow.md">
+    <strong>User workflow</strong>
     </a>
     </div>
     <p>
-    <em>See an end-to-end demo of Adobe Mix Modeler</em>
+    <em>Learn the basic workflow of Adobe Mix Modeler</em>
     <p>
   </td>
   <td>
