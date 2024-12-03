@@ -11,6 +11,6 @@ exl-id: 80632289-4473-4ec5-96fc-fec8acf78441
 ---
 # Mix Modeler overview
 
-Get a quick overview of Adobe Mix Modeler. For additional information, see the [Adobe Mix Modeler guide](https://experienceleague.adobe.com/docs/mix-modeler/using/get-started/workflow.html).
+Get a quick overview of Adobe Mix Modeler. For additional information, see the [Adobe Mix Modeler guide](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424872/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424872/?learn=on&enablevpops)
