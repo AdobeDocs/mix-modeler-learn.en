@@ -12,6 +12,7 @@ auto-video-transcripts: true
 + [Mix Modeler Tutorials](/help/tutorials/overview.md)
 + Introduction to Mix Modeler {#intro}
   + [Overview](/help/tutorials/intro/understanding-mix-modeler.md)
-  + [Use Cases](/help/tutorials/intro/use-cases.md)
-  + [User Workflow](/help/tutorials/intro/user-workflow.md)
-  + [User Interface Tour](/help/tutorials/intro/user-interface-tour.md)
+  + [Use cases](/help/tutorials/intro/use-cases.md)
+  + [User workflow](/help/tutorials/intro/user-workflow.md)
+  + [End-to-end Demo](/help/tutorials/intro/demo.md)
+  + [User interface tour](/help/tutorials/intro/user-interface-tour.md)
