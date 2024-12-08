@@ -14,5 +14,5 @@ auto-video-transcripts: true
   + [Overview](/help/tutorials/intro/understanding-mix-modeler.md)
   + [Use cases](/help/tutorials/intro/use-cases.md)
   + [User workflow](/help/tutorials/intro/user-workflow.md)
-  + [End-to-end Demo](/help/tutorials/intro/demo.md)
+  + [End-to-end demo](/help/tutorials/intro/demo.md)
   + [User interface tour](/help/tutorials/intro/user-interface-tour.md)
