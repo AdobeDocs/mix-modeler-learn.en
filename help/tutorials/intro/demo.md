@@ -4,7 +4,7 @@ description: Learn the end-to-end workflow of Adobe Mix Modeler.
 role: Developer, User
 level: Beginner
 doc-type: Value Video
-duration: 1299
+duration: 1280
 last-substantial-update: 2024-12-03
 jira: KT-16610
 exl-id: 097a1672-7163-4982-ace4-12d0ab33a622
