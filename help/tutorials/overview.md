@@ -50,7 +50,6 @@ Adobe Mix Modeler helps organizations measure, optimize, and plan marketing inve
     <em>Learn the key user interface components of Adobe Mix Modeler</em>
     <p>
   </td>
-</tr>
   <td>
     <a href="intro/user-workflow.md">
       <img alt="thumbnail image for the 'User workflow' tutorial" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
@@ -64,6 +63,7 @@ Adobe Mix Modeler helps organizations measure, optimize, and plan marketing inve
     <em>Learn about the user workflow in Adobe Mix Modeler</em>
     <p>
   </td>
+</tr>
 </table>
 
 </div>
