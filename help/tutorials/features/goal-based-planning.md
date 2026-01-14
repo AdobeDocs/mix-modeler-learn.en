@@ -13,3 +13,4 @@ hidefromtoc: yes
 With the goal based planning feature in Mix Modeler, you can plan from your business goals and not just your budget. You can confidently allocate your budgets efficiently across channels and campaigns to achieve your goals with the maximum ROI.
 
 >[!SLIDE](goal-based-planning)
+
