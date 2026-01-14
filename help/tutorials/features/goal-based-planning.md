@@ -1,12 +1,22 @@
 ---
-title: Goal based planning
+title: Goal Based Planning
 description: Learn how to use goal based planning in Mix Modeler.
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
-jira: KT-14136
 hide: yes
 hidefromtoc: yes
+---
+---
+title: Goal Based Planning
+description: Learn how use goal based planning in Mix Modeler
+solution: Mix Modeler
+role: User
+level: Beginner
+feature: Marketing Mix Modeler
+feature-set:
+publish: true
+
 ---
 # Goal based planning
 
