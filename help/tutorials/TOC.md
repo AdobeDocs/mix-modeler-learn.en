@@ -14,3 +14,5 @@ auto-video-transcripts: true
   + [User workflow](/help/tutorials/intro/user-workflow.md)
   + [End-to-end demo](/help/tutorials/intro/demo.md)
   + [User interface tour](/help/tutorials/intro/user-interface-tour.md)
++ Features {#features}
+  + [Goal based plannin](/help/tutorials/features/goal-based-planning.md)
