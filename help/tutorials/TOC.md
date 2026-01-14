@@ -15,4 +15,4 @@ auto-video-transcripts: true
   + [End-to-end demo](/help/tutorials/intro/demo.md)
   + [User interface tour](/help/tutorials/intro/user-interface-tour.md)
 + Features {#features}
-  + [Goal based plannin](/help/tutorials/features/goal-based-planning.md)
+  + [Goal based planning](/help/tutorials/features/goal-based-planning.md)
