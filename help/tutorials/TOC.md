@@ -16,3 +16,4 @@ auto-video-transcripts: true
   + [User interface tour](/help/tutorials/intro/user-interface-tour.md)
 + Features {#features}
   + [Goal based planning](/help/tutorials/features/goal-based-planning.md)
+  + [Model drift detection](/help/tutorials/features/model-drift-detection.md)
