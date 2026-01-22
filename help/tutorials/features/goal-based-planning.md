@@ -4,6 +4,7 @@ description: Learn how to use goal-based planning in Mix Modeler.
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
+jira: KT-20157
 hide: yes
 hidefromtoc: yes
 ---
