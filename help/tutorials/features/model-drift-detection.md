@@ -11,7 +11,7 @@ hidefromtoc: yes
 
 # Model drift detection
 
-With the model drift detection feature in Mix Modeler, drift on models is automatically detected and you are offered to immediately take action or explore the drift in more detail. For more information, see [Model drift](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in the Mix Modeler documentation.
+With Mix Modeler's model drift detection feature, changes in model performance are automatically detected and users are notified. They can take immediate action to return the model to optimal performance. For more information, see [Model drift](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in the Mix Modeler documentation.
 
 >[!SLIDE](model-drift-detection)
 
