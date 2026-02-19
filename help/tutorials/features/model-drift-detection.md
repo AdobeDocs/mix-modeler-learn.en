@@ -5,8 +5,6 @@ role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 jira: KT-20158
-hide: yes
-hidefromtoc: yes
 exl-id: 32962f4b-c506-403e-8bb2-45ebba22429c
 ---
 # Model drift detection
