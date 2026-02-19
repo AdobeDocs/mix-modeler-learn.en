@@ -5,8 +5,6 @@ role: Admin, Architect, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 jira: KT-20157
-hide: yes
-hidefromtoc: yes
 exl-id: aa5297d9-e1fa-4303-b645-22f3c964279e
 ---
 # Goal-based planning
