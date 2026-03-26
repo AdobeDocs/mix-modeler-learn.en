@@ -1,7 +1,7 @@
 ---
 title: Model Drift Detection
 description: Learn about the model drift detection in Mix Modeler.
-role: Admin, Architect, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 jira: KT-20158

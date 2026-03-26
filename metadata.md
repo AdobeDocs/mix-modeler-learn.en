@@ -1,9 +1,12 @@
 ---
 cloud: Experience Cloud
 solution: Mix Modeler
+landing-page-name: mix-modeler
+landing-page-breadcrumb-title: Mix Modeler
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/mix-modeler-learn.en
+index: true
 ---
 
 # Metadata for internal use

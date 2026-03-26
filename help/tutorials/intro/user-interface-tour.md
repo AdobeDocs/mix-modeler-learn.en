@@ -1,7 +1,7 @@
 ---
 title: User Interface Tour
 description: See the key features of Mix Modeler in the user interface.
-role: Admin, Architect, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2023-10-11

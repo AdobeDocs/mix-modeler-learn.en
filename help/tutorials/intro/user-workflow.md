@@ -1,7 +1,7 @@
 ---
 title: User Workflow
 description: Learn the workflow of Mix Modeler.
-role: Admin, Architect, Developer, Leader, User
+role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2023-10-11
